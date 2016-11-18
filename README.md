@@ -1,1 +1,1 @@
-# Prjektbeschreibung
+# Projektbeschreibung
